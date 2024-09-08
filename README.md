@@ -93,5 +93,5 @@ This module updates the original CSV file with barcode data. It:
 
 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/lalithreddy1/baroce /issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check https://github.com/lalithreddy1/Barcode_generator/issues) if you want to contribute.
 
